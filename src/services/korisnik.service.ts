@@ -8,11 +8,11 @@ export class KorisnikService {
         if (!StHelper.getItem('korisnici')) {
             const arr: KorisnikModel[] = [
                 {
-                    email: 'jovan@gmail.com',
-                    firstName: 'Jovan',
-                    lastName: 'Spasov',
-                    phone: '066 543 345',
-                    address: 'Vojvode Stepe 6',
+                    email: 'dusan4395@gmail.com',
+                    firstName: 'dusan',
+                    lastName: 'Nikolic',
+                    phone: '062876677',
+                    address: 'Zicka 2',
                     password: 'asd',
                     rezervacije: []
                 }
