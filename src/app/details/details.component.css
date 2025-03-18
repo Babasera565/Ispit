@@ -1,0 +1,22 @@
+.flight-card {
+    min-width: 49%;
+}
+
+.flight-content {
+    display: flex;
+    gap: 0px;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.flight-content img {
+    max-width: 620px;
+}
+
+.flight-map {
+    width: auto;
+    height: 100%;
+}
+
